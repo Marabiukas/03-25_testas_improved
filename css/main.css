@@ -9,9 +9,15 @@
     display: inline-block;
     margin-left: 300px;
     margin-right: 50px;
+    
     text-transform: uppercase;
     text-align: center;
     color: #E05E46; 
+}
+
+.first-column span {
+    color: white;
+    position: absolute;
 }
 
 .first-column img {
@@ -30,6 +36,11 @@
     color: #E05E46;
 }
 
+.second-column span {
+    color: white;
+    position: absolute;
+}
+
 .second-column img {
     background-color: #4074BD;
     width: 150px;
@@ -43,6 +54,11 @@
     text-transform: uppercase;
     text-align: center;
     color: #E05E46;
+}
+
+.third-column span {
+    color: white;
+    position: absolute;
 }
 
 .third-column img {
@@ -59,6 +75,11 @@
     text-transform: uppercase;
     text-align: center;
     color: #E05E46;
+}
+
+.fourth-column span {
+    color: white;
+    position: absolute;
 }
 
 .fourth-column img {
