@@ -4,7 +4,6 @@ body {
 
 .container {
     width: 100%;
-    margin-top: ;
     display: inline-block;
     position: absolute;
     top: 50%;
@@ -17,7 +16,6 @@ body {
     display: inline-block;
     margin-left: calc(50% - 350px);
     margin-right: 50px;
-    
     text-transform: uppercase;
     text-align: center;
     color: #E05E46; 
